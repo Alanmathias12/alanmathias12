@@ -19,7 +19,6 @@
 
 -⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n9nbxcvl8d0wr6t46mhjfl3nk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmathias12&show_icons=true&theme=gotham)
